@@ -29,7 +29,11 @@ namespace GitTest1
 
         private void button3_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             MessageBox.Show("3");
+=======
+            this.label1.Text = "Test3";
+>>>>>>> person
         }
     }
 }
